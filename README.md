@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Nobel-Prize Analysis
+
+Analyze award and publication dates of Nobel laureates along with lag between publication of the main work and award year.
+Currently only available for Physics, Chemistry and Medicine till 2016 (some data during the early years of the prize is not available).
+This page is still work in progress (alpha version).
 
 You can use the [editor on GitHub](https://github.com/subhojit-chakz/nobelprize-analysis/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
