@@ -57,7 +57,7 @@ Physics,10039,raymond davis jr.,2002,search for neutrinos from the sun,1968,2023
 Physics,10040,"cornell, ea",2001,observation of bose einstein condensation in a dilute atomic vapor,1995,1991602497,
 Physics,10041,"ketterle, w",2001,bose einstein condensation in a gas of sodium atoms,1995,2132639490,
 Physics,10042,"wiemann, ce",2001,observation of bose einstein condensation in a dilute atomic vapor,1995,1991602497,
-Physics,10043,kroemer herbert ,2000,heterostructure bipolar transistors and integrated circuits,1982,2154249635,
+Physics,10043,"kroemer, herbert ",2000,heterostructure bipolar transistors and integrated circuits,1982,2154249635,
 Physics,10044,"alferov, zi",2000,ultranarrow luminescence lines from single quantum dots,1995,2071148840,
 Physics,10044,"alferov, zi",2000,low threshold large to injection laser emission from inga as quantum dots,1994,2078503440,
 Physics,10045,"kilby, js",2000,invention of the integrated circuit,1976,2015233893,
@@ -234,7 +234,7 @@ Physics,10159,"lawrence, eo",1939,the production of heavy high speed ions withou
 Physics,10160,"fermi, e",1938,an attempt of a theory of beta radiation 1,1934,2128675669,
 Physics,10161,"davisson, cj",1937,diffraction of electrons by a crystal of nickel,1927,2059898013,
 Physics,10162,"thomson, gp",1937,diffraction of cathode rays by a thin film,1927,1999033607,
-Physics,10163,victor f. hess,1936,observations in low level radiation during seven free balloon flights.,1912,,"When radiation and atoms interact, charged atoms, ions, are often produced. In 1912 Victor Hess measured atmospheric ionization as function of altitude using balloons. Surprisingly, he found that ionization first decreased, but then increased again at higher altitudes. He concluded that the upper atmosphere is ionized by radiation from space. He proved that this radiation is not solar through experiments performed at night and during eclipses: cosmic rays had been discovered."
+Physics,10163,"hess, vf",1936,observations in low level radiation during seven free balloon flights.,1912,,"When radiation and atoms interact, charged atoms, ions, are often produced. In 1912 Victor Hess measured atmospheric ionization as function of altitude using balloons. Surprisingly, he found that ionization first decreased, but then increased again at higher altitudes. He concluded that the upper atmosphere is ionized by radiation from space. He proved that this radiation is not solar through experiments performed at night and during eclipses: cosmic rays had been discovered."
 Physics,10164,"anderson, cd",1936,the positive electron,1933,1984005161,
 Physics,10165,"chadwick, j",1935,possible existence of a neutron,1932,2167908904,
 Physics,10166,"schrodinger, e",1933,der stetige ubergang von der mikro zur makromechanik,1926,1884836326,
@@ -251,8 +251,8 @@ Physics,10172,"compton, ah",1927,a quantum theory of the scattering of x rays by
 Physics,10172,"compton, ah",1927,cxvii the total reflexion of x rays,1923,2051374510,
 Physics,10173,"wilson, ctr",1927,on a method of making visible the paths of ionising particles through a gas,1911,1990379124,
 Physics,10174,"perrin, j",1926,sur la theorie du mouvement brownien,1908,131007391,
-Physics,10175,gustav hertz,1925,the kinetics of electrons and ions in gases,1916,,"After the publication of Niels Bohr's theory on the structure of the atom, Gustav Hertz and James Franck conducted an experiment in 1913 to verify it. A potential difference was applied to a tube containing a low-pressure gas. When the potential difference was increased, the current flowing through the tube also increased until it reached a certain voltage, when it suddenly declined. The result supported Niels Bohr's theory, in which electrons can only have specific, discrete energies. The potential difference increased the free electrons' mobility until, at a certain energy level, they jumped to a higher-energy orbit instead."
-Physics,10175,gustav hertz,1925,the confirmation of the bohr atomic theory in the optical spectra by means of experiments of the unelastic impacts of slow electrons with gas molecules,1919,,Not find in MAG dataset
+Physics,10175,"hertz, g",1925,the kinetics of electrons and ions in gases,1916,,"After the publication of Niels Bohr's theory on the structure of the atom, Gustav Hertz and James Franck conducted an experiment in 1913 to verify it. A potential difference was applied to a tube containing a low-pressure gas. When the potential difference was increased, the current flowing through the tube also increased until it reached a certain voltage, when it suddenly declined. The result supported Niels Bohr's theory, in which electrons can only have specific, discrete energies. The potential difference increased the free electrons' mobility until, at a certain energy level, they jumped to a higher-energy orbit instead."
+Physics,10175,"hertz, g",1925,the confirmation of the bohr atomic theory in the optical spectra by means of experiments of the unelastic impacts of slow electrons with gas molecules,1919,,Not find in MAG dataset
 Physics,10176,"franck, j",1925,the kinetics of electrons and ions in gases,1916,,Not find in MAG dataset
 Physics,10176,"franck, j",1925,the confirmation of the bohr atomic theory in the optical spectra by means of experiments of the unelastic impacts of slow electrons with gas molecules,1919,,Not find in MAG dataset
 Physics,10177,"siegbahn, m",1924,the x-ray spectrum of the elements na to cr,1916,,Not find in MAG dataset
@@ -267,7 +267,7 @@ Physics,10179,"bohr, n",1922,ii on the theory of the decrease of velocity of mov
 Physics,10180,"einstein, a",1921,uber einen die erzeugung und verwandlung des lichtes betreffenden heuristischen gesichtspunkt,1905,2005886497,
 Physics,10180,"einstein, a",1921,zur elektrodynamik bewegter korper,1905,2048251016,
 Physics,10180,"einstein, a",1921,on the movement of small particles suspended in a stationary liquid demanded by the molecular kinetic theory of heart,1905,2730405628,
-Physics,10181,charles edouard guillaume,1920,The Anomaly of the Nickel-Steels,1919,2056303910,
+Physics,10181,"guillaume, ce",1920,The Anomaly of the Nickel-Steels,1919,2056303910,
 Physics,10182,"stark, j",1919,beobachtungen uber den effekt des elektrischen feldes auf spektrallinien ii langseffekt,1914,2171194731,
 Physics,10183,"planck, m",1918,Ueber das Gesetz der Energieverteilung im Normalspectrum,1901,2047210381,
 Physics,10184,"barkla, cg",1917,polarisation in secondary rontgen radiation,1906,2087929793,
@@ -277,8 +277,8 @@ Physics,10186,"bragg, wh",1915,the reflection of x rays by crystals,1913,1986715
 Physics,10187,"laue, m",1914,interferenzerscheinungen bei rontgenstrahlen,1913,2049080732,
 Physics,10188,"onnes, hk",1913,"further experiments with liquid helium d - on the change of the electrical resistance of pure metals at very low temperatures, etc v the disappearance of the resistance of mercury",1911,,Not find in MAG dataset
 Physics,10189,"wien, w",1911,Wien's displacement law,1983,,Not find in MAG dataset
-Physics,10190,albert a. michelson,1907,On the Relative Motion of the Earth and the Luminiferous Ether,1887,2085155384,
-Physics,10191,joseph john thomson,1906,XL. Cathode Rays,1897,2050833490,
+Physics,10190,"michelson, aa",1907,On the Relative Motion of the Earth and the Luminiferous Ether,1887,2085155384,
+Physics,10191,"thomson, jj",1906,XL. Cathode Rays,1897,2050833490,
 Physics,10192,"lenard, p",1905,Ueber Kathodenstrahlen in Gasen von atmosphrischem Druck und im ussersten Vacuum,1894,2150938918,
 Physics,10193,"zeeman, p",1902,The Effect of Magnetisation on the Nature of Light Emitted by a Substance,1897,,Not find in MAG dataset
 Physics,10193,"zeeman, p",1902,The Influence of a Magnetic Field on Radiation Frequency,1896,,Not find in MAG dataset
@@ -399,7 +399,7 @@ Chemistry,20072,"lee, y",1986,intermolecular potentials from crossed beam differ
 Chemistry,20072,"lee, y",1986,molecular beam reactive scattering apparatus with electron bombardment detector,1969,2038263790,
 Chemistry,20073,"karle, j",1985,a theory of phase determination for the four types of non centrosymmetric space groups 1p222 2p22 3p12 3p22,1956,2011912423,
 Chemistry,20074,"hauptman, h",1985,a theory of phase determination for the four types of non centrosymmetric space groups 1p222 2p22 3p12 3p22,1956,2011912423,
-Chemistry,20075,merrifie.rb,1984,solid phase peptide synthesis i the synthesis of a tetrapeptide,1963,2320556745,
+Chemistry,20075,"merrifield, rb",1984,solid phase peptide synthesis i the synthesis of a tetrapeptide,1963,2320556745,
 Chemistry,20076,"taube, h",1983,rates and mechanisms of substitution in inorganic complexes in solution,1952,2060270846,
 Chemistry,20077,"klug, a",1982,reconstruction of three dimensional structures from electron micrographs,1968,2001024934,
 Chemistry,20077,"klug, a",1982,physical principles in the construction of regular viruses,1962,2078507839,
@@ -469,7 +469,7 @@ Chemistry,20115,"todd, a",1957,studies on phosphorylation .2. the reaction of di
 Chemistry,20116,"hinshelwood, c",1956,227 on the factors determining the velocity of reactions in solution molecular statistics of the benzoylation of amines,1934,1988560669,
 Chemistry,20116,"hinshelwood, c",1956,further investigations on the kinetics of gaseous oxidation reactions,1930,2040558105,
 Chemistry,20116,"hinshelwood, c",1956,333 the activation energy of organic reactions part iv transmission of substituent influences in ester hydrolysis,1938,2070976790,
-Chemistry,20117,n. n. semenov,1956,Chemical kinetics and chain reactions,1935,633340598,
+Chemistry,20117,"semenov, nn",1956,Chemical kinetics and chain reactions,1935,633340598,
 Chemistry,20118,"duvigneaud, v",1955,the synthesis of an octapeptide amide with the hormonal activity of oxytocin,1953,2322067933,
 Chemistry,20118,"duvigneaud, v",1955,the synthesis of oxytocin1,1954,2328863734,
 Chemistry,20119,"pauling, l",1954,the structure of proteins two hydrogen bonded helical configurations of the polypeptide chain,1951,2140992384,
@@ -724,7 +724,7 @@ Medicine,30106,"sutherland, ew",1971,adenyl cyclase iii the effect of catecholam
 Medicine,30106,"sutherland, ew",1971,adenyl cyclase iv the effects of neurohormones on the formation of adenosine 3 5 phosphate by preparations from brain and other tissues,1962,1501394106,
 Medicine,30106,"sutherland, ew",1971,adenyl cyclase i distribution preparation and properties,1962,1529705405,
 Medicine,30106,"sutherland, ew",1971,adenosine 3 5 phosphate in biological materials i purification and properties of cyclic 3 5 nucleotide phosphodiesterase and use of this enzyme to characterize adenosine 3 5 phosphate in human urine,1962,1602784471,
-Medicine,30107,von euler us,1970,evidence for the presence of noradrenaline in submicroscopic structures of adrenergic axons,1956,2030670408,
+Medicine,30107,"euler, uv",1970,evidence for the presence of noradrenaline in submicroscopic structures of adrenergic axons,1956,2030670408,
 Medicine,30108,"axelrod, j",1970,enzymatic o methylation of epinephrine and other catechols,1958,1543624067,
 Medicine,30108,"axelrod, j",1970,o methylation of epinephrine and other catechols in vitro and in vivo,1957,2036416641,
 Medicine,30109,"katz, b",1970,a study of the desensitization produced by acetylcholine at the motor end plate,1957,2009285843,
@@ -775,8 +775,8 @@ Medicine,30130,"watson, jd",1962,the structure of dna,1953,2127674396,
 Medicine,30131,"crick, fhc",1962,genetical implications of the structure of deoxyribonucleic acid,1953,2077423161,
 Medicine,30131,"crick, fhc",1962,the packing of  helices simple coiled coils,1953,2116441099,
 Medicine,30131,"crick, fhc",1962,molecular structure of nucleic acids a structure for deoxyribose nucleic acid,1953,2126466006,
-Medicine,30132,"vonbekesy, g",1961,the variation of phase along the basilar membrane with sinusoidal vibrations,1947,1987303129,
-Medicine,30132,"vonbekesy, g",1961,a new audiometer,1947,2059693774,
+Medicine,30132,"bekesy, gv",1961,the variation of phase along the basilar membrane with sinusoidal vibrations,1947,1987303129,
+Medicine,30132,"bekesy, gv",1961,a new audiometer,1947,2059693774,
 Medicine,30133,"medawar, pb",1960,the technique of free skin grafting in mammals,1951,1929691604,
 Medicine,30134,"burnet, fm",1960,the failure of antibody production in the chick embryo,1950,2092545283,
 Medicine,30135,"kornberg, a",1959,enzymatic synthesis of deoxyribonucleic acid i preparation of substrates and partial purification of an enzyme from escherichia coli,1958,1569060300,
